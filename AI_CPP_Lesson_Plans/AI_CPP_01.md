@@ -21,7 +21,7 @@
 
 * Example: Explain AI with relatable analogies, like a smart assistant (Siri or Alexa) and its ability to understand voice commands.
 
-* Video: Show a video clip from that explains AI [![Watch the video](https://img.youtube.com/vi/nTQUwghvy5Q/default.jpg)]([https://youtu.be/nTQUwghvy5Q](https://www.youtube.com/watch?v=a0_lo_GDcFw)).
+* Video: Show a video clip from that explains AI [![Watch the video]([https://youtu.be/nTQUwghvy5Q](https://www.youtube.com/watch?v=a0_lo_GDcFw)).
 
 ### Interactive Video and Class Discussion:
 
