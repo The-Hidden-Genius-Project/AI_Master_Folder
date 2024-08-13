@@ -17,7 +17,7 @@
 
 ### Video & Discussion:
 
-* Example: Show video of AI prediction of the future of humanity ()
+* Example: Show video of AI prediction of the future of humanity (https://www.youtube.com/watch?v=63yr9dlI0cU)
 * Example: Show video of AI Evolution (https://www.youtube.com/watch?v=ng43Ou2Yna4)
 
 ### Ethical Considerations:
