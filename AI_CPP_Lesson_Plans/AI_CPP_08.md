@@ -18,7 +18,7 @@
 2. **Group Discussion (15 minutes):**
    - Ask students what they know about facial recognition. Write their ideas on the whiteboard if available.
    - Define facial recognition in terms of face ID and other softwares we use.
-   - Show a short, engaging video about how chatbots learn(How AIs, like ChatGPT, Learn).
+   - Show a short, engaging video about how chatbots learn([How AIs, like ChatGPT, Learn](https://www.youtube.com/watch?v=R9OHn5ZF4Uo)).
 
 3. Play Gartic Phone(https://www.humanornot.ai/)
 Play 3 rounds and have students guess if AI or not
