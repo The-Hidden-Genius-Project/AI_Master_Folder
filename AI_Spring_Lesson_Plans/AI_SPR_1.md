@@ -63,5 +63,6 @@ Geniuses will explore the basics of machine learning, focusing on classification
 - The physical activity energized the class and made abstract concepts tangible.
 - Next time, incorporate more complex objects to increase difficulty.
 
-## ART BOT: https://learnml.eu/artbot.php
-## Real life classifaction tools: https://www.ibm.com/think/topics/machine-learning-use-cases#:~:text=ML%20and%20deep%20learning%20are%20widely%20used,and%20other%20lenders%20use%20ML%20classification%20algorithms
+## Resources
+ART BOT: https://learnml.eu/artbot.php
+Real life classifaction tools: https://www.ibm.com/think/topics/machine-learning-use-cases#:~:text=ML%20and%20deep%20learning%20are%20widely%20used,and%20other%20lenders%20use%20ML%20classification%20algorithms
