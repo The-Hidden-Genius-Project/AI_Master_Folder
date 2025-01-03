@@ -53,6 +53,13 @@ Geniuses will be introduced to Python programming basics, focusing on concepts r
 - Review Geniuses code for correct syntax and functionality.
 - Observe problem-solving approaches during coding.
 
+## **Extra Activities:**
+- Geniuses who advance quickly can experiment with more complex data structures like lists.
+
+## **Reflection / Takeaways:**
+- Hands-on coding boosted confidence.
+- Plan to allocate more time for troubleshooting in future sessions.
+
 ## Resources:
 - Basic Varible app
 ```
@@ -62,9 +69,3 @@ while b < 10:
     a, b = a, a + b
 ```
 
-## **Extra Activities:**
-- Geniuses who advance quickly can experiment with more complex data structures like lists.
-
-## **Reflection / Takeaways:**
-- Hands-on coding boosted confidence.
-- Plan to allocate more time for troubleshooting in future sessions.
